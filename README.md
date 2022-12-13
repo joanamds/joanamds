@@ -2,7 +2,7 @@
 <details>
   <summary><strong>:woman: Sobre mim</strong></summary><br />
   :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
-em algo que me permita sair da comodidade e me desafiar cada dia mais. 
+em algo que me permita sair da comodidade e me desafiar cada dia mais e acredito que estou faço isso constantemente na área de desenvolvimento. 
   <br />
   <br />
   :mage_woman: No meu tempo livre gosto muito de assistir séries, filmes e ler livros, principalmente de ficção científica, aventura e fantasia. 
@@ -37,6 +37,7 @@ export default Joana;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+<h3 align="left">Tecnologias e ferramentas</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -72,6 +73,23 @@ export default Joana;
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Trello</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Bootstrap</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
         </tr>
   </tbody>
