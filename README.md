@@ -18,7 +18,8 @@ import React from 'react';
 function Joana() {
   const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Jest', 'RTL', 'Git', 'GitHub'];
   const degree = 'Pedagogy';
-  const course = 'Trybe'
+  const course = 'Trybe';
+  const email = 'joanamdsantos1@gmail.com';
 
   return (
     <main className='about-me'>
@@ -29,6 +30,7 @@ function Joana() {
         {skills.map((skill) => <li>{skill}</li>)}
       </ul>
       <p>{`Degree: ${degree}`}</p>
+      <p>{`Contact: ${email}`}
     </main>
   );
 }
