@@ -1,3 +1,13 @@
+### Olá! Eu sou a Joana Maria dos Santos
+<details>
+  <summary><strong>:woman: Sobre mim</strong></summary><br />
+  :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
+em algo que me permita sair da comodidade e me desafiar cada dia mais. 
+  <br />
+  <br />
+  :mage_woman: No meu tempo livre gosto muito de assistir séries, filmes e ler livros, principalmente de ficção científica, aventura e fantasia. 
+</details>
+
 ```js
 import React from 'react';
 
@@ -22,11 +32,57 @@ function Joana() {
 export default Joana;
 
 ```
-<details>
-  <summary><strong>Sobre mim</strong></summary><br />
-  :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
-em algo que me permita sair da comodidade e me desafiar cada dia mais. 
-  <br />
-  <br />
-  :mage_woman: No meus tempo livre gosto muito de assistir séries, filmes e ler livros, principalmente de ficção científica, aventura e fantasia. 
-</details>
+<div align="flex-start">
+  <a href="https://github.com/joanamds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamds&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+        </tr>
+  </tbody>
+  </table>
+
+
+</div>
+  
+### Contato
+  <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:joanamdsantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  
+
