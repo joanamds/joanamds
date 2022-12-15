@@ -3,10 +3,13 @@
   <summary><strong>:woman: Sobre mim</strong></summary><br />
   :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
 em algo que me permita sair da comodidade e me desafiar cada dia mais e acredito que faço isso constantemente na área de desenvolvimento. 
-    <br />
+  <br />
   <br />
 
   📖 Iniciei meus estudos para me tornar Desenvolvedora Full Stack na Trybe em julho de 2022.
+  <br />
+  <br />
+  🎵 Adoro música e estou constantemente escutando principalmente música pop
   <br />
   <br />
   :mage_woman: No meu tempo livre gosto muito de assistir séries, filmes e ler livros, principalmente de ficção científica, aventura e fantasia. 
