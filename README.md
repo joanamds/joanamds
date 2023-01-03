@@ -110,7 +110,9 @@ export default Joana;
   
 ### Contato
   <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:joanamdsantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:joanamdsantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+### Portfólio
+ <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-Github%20Page-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/joanamds/joanamds/blob/output/github-contribution-grid-snake.svg)
 
