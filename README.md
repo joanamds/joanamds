@@ -41,11 +41,11 @@ function Joana() {
 export default Joana;
 
 ```
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/joanamds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joanamds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamds&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
 <h3 align="left">Tecnologias e ferramentas</h3>
 <table width="320px">
