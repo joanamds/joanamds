@@ -41,11 +41,11 @@ function Joana() {
 export default Joana;
 
 ```
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/joanamds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joanamds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamds&layout=compact&langs_count=7&theme=dracula"/>
-</div> -->
+</div>
   
 <h3 align="left">Tecnologias e ferramentas</h3>
 <table width="320px">
@@ -106,7 +106,7 @@ export default Joana;
   </table>
 </div>
 
-#### Atualmente estou estudando... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/>
+#### Atualmente estou aprendendo... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/>
   
 ### Contato
   <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
