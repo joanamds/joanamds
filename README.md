@@ -106,7 +106,7 @@ export default Joana;
   </table>
 </div>
 
-#### Atualmente estou aprendendo... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/>
+<!-- #### Atualmente estou aprendendo... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/> -->
   
 ### Contato
   <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
