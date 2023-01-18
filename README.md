@@ -107,13 +107,10 @@ export default Joana;
 </div>
 
 <!-- #### Atualmente estou aprendendo... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/> -->
-  
-### Contato
-  <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:joanamdsantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-### Portfólio
- <a href="https://joanamds.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Github%20Page-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/joanamds/joanamds/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joanamdsantos1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white">     </a> 
+  <a href="https://joanamds.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Github%20Page-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
