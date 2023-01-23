@@ -1,18 +1,17 @@
 ### Hello world! I'm Joana
 <details>
-  <summary><strong>:woman: Sobre mim</strong></summary><br />
-  :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
-em algo que me permita sair da comodidade e me desafiar cada dia mais e acredito que faço isso constantemente na área de desenvolvimento. 
+  <summary><strong>:woman: About me</strong></summary><br />
+  :woman_teacher: :arrow_right: :woman_technologist: I am changing my career. I am moving from education to technology. 
   <br />
   <br />
 
-  📖 Iniciei meus estudos para me tornar Desenvolvedora Full Stack na Trybe em julho de 2022.
+  📖 I started my studies to become a full stack developer on [Trybe](https://www.betrybe.com/) in july 2022. 
   <br />
   <br />
-  🎵 Adoro música e estou constantemente escutando principalmente música pop
+  🎵 I love music and I'm constantly hearing mainly pop songs.
   <br />
   <br />
-  :mage_woman: No meu tempo livre gosto muito de assistir séries, filmes e ler livros, principalmente de ficção científica, aventura e fantasia. 
+  :mage_woman: On my free time I like to watch series, movies and read books, mostly of science fiction, adventure and fantasy. 
 </details>
 
 ```js
@@ -27,7 +26,7 @@ function Joana() {
   return (
     <main className='about-me'>
       <h1>Joana Maria dos Santos</h1>
-      <p>{`Estudando na ${course} para me tornar uma desenvolvedora full stack` }</p>
+      <p>{`Studying on ${course} to become a Full Stack Developer` }</p>
       <ul>
         <h3>Skills</h3>
         {skills.map((skill) => <li>{skill}</li>)}
@@ -47,7 +46,7 @@ export default Joana;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanamds&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<h3 align="left">Tecnologias e ferramentas</h3>
+<h3 align="left">Technologies and tools</h3>
 <table width="320px">
     <tbody>
         <tr valign="top">
