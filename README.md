@@ -1,4 +1,4 @@
-### Olá! Eu sou a Joana Maria dos Santos
+### Hello world! I'm Joana
 <details>
   <summary><strong>:woman: Sobre mim</strong></summary><br />
   :woman_teacher: :arrow_right: :woman_technologist: Atualmente estou em transição de carreira, saindo da área da educação para a área da tecnologia. Decidi me aventurar em uma nova área por desejar atuar 
