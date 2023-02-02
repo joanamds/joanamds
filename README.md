@@ -1,17 +1,19 @@
 ### Hello world! I'm Joana
 <details>
-  <summary><strong>:woman: About me</strong></summary><br />
+  <summary> <strong>:woman: About me</strong></summary><br />
+ 
+  ---
+  
   :woman_teacher: :arrow_right: :woman_technologist: I am changing my career. I am moving from education to technology. 
-  <br />
-  <br />
-
+  
   📖 I started my studies to become a full stack developer on [Trybe](https://www.betrybe.com/) in july 2022. 
-  <br />
-  <br />
+  
   🎵 I love music and I'm constantly hearing mainly pop songs.
-  <br />
-  <br />
+  
   :mage_woman: On my free time I like to watch series, movies and read books, mostly of science fiction, adventure and fantasy. 
+  
+  ---
+  
 </details>
 
 ```js
