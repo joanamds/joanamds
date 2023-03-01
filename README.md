@@ -1,47 +1,16 @@
-### Hello world! I'm Joana
-<details>
-  <summary> <strong>:woman: About me</strong></summary><br />
- 
+### Hello world! I'm Joana 
   ---
   
-  :woman_teacher: :arrow_right: :woman_technologist: I am changing my career. I am moving from education to technology. 
+  :woman_teacher: :arrow_right: :woman_technologist: Estou mudando de carreira. Da área da educação para a área da tecnologia.
   
-  📖 I started my studies to become a full stack developer on [Trybe](https://www.betrybe.com/) in july 2022. 
+  📖 Comecei meus estudos para me tornar uma Desenvolvedora Full Stack na [Trybe](https://www.betrybe.com/) em julho de 2022. 
   
-  🎵 I love music and I'm constantly hearing mainly pop songs.
+  🎵 Eu adoro música e estou constantemente ouvindo, principalmente música pop.
   
-  :mage_woman: On my free time I like to watch series, movies and read books, mostly of science fiction, adventure and fantasy. 
+  :mage_woman: No meu tempo livre gosto de assistir séries, filmes e ler livros,  principalmente de ficção científica, aventura e fantasia. 
   
   ---
   
-</details>
-
-```js
-import React from 'react';
-
-function Joana() {
-  const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Jest', 'RTL', 'Git', 'GitHub'];
-  const degree = 'Pedagogy';
-  const course = 'Trybe';
-  const email = 'joanamdsantos1@gmail.com';
-
-  return (
-    <main className='about-me'>
-      <h1>Joana Maria dos Santos</h1>
-      <p>{`Studying on ${course} to become a Full Stack Developer` }</p>
-      <ul>
-        <h3>Skills</h3>
-        {skills.map((skill) => <li>{skill}</li>)}
-      </ul>
-      <p>{`Degree: ${degree}`}</p>
-      <p>{`Contact: ${email}`}
-    </main>
-  );
-}
-
-export default Joana;
-
-```
 <div align="center">
   <a href="https://github.com/joanamds">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joanamds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
