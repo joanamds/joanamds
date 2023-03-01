@@ -1,4 +1,4 @@
-### Hello world! I'm Joana 
+### Hello world!  
   ---
   
   :woman_teacher: :arrow_right: :woman_technologist: Estou mudando de carreira. Da área da educação para a área da tecnologia.
