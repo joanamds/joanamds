@@ -68,6 +68,14 @@ export default Joana;
             <span><strong>React</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Docker</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/222271389-74be460b-5aab-45fb-be58-ea17daf1ba6f.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MUI</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/222272699-b10be3f4-c2ee-4fb3-a78b-2115fe2728e8.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -84,6 +92,14 @@ export default Joana;
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/222271417-3c2f7bd1-df2c-4603-90a2-b88522e74f64.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Tailwind</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/222272710-d163957e-5ec1-4d91-b0b0-501287eb56a4.svg">
             </td>
         </tr>
         <tr valign="top">
@@ -102,12 +118,14 @@ export default Joana;
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Node.js</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/222271452-10564e57-06b4-42b8-9d8a-7b71a2a4aef9.svg">
+            </td>
         </tr>
   </tbody>
   </table>
 </div>
-
-<!-- #### Atualmente estou aprendendo... <img src="https://user-images.githubusercontent.com/106452876/212149188-b5d0bb32-5aed-46dd-a2f7-9f35928b45c8.png" alt="docker button" width="80"/> -->
  
   ![Snake animation](https://github.com/joanamds/joanamds/blob/output/github-contribution-grid-snake.svg)
   
