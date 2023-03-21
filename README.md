@@ -95,11 +95,15 @@
             <span><strong>Node.js</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/222271452-10564e57-06b4-42b8-9d8a-7b71a2a4aef9.svg">
             </td>
+          <td width="80px" align="center">
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/226727689-f5bf535c-7f9f-4adf-8d61-b701f00775ff.png">
+            </td>
         </tr>
   </tbody>
   </table>
 </div>
- 
+
   ![Snake animation](https://github.com/joanamds/joanamds/blob/output/github-contribution-grid-snake.svg)
   
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> joanamdsantos1@gmail.com
