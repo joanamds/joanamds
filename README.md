@@ -108,6 +108,6 @@
   
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> joanamdsantos1@gmail.com
   
-  <a href="https://www.linkedin.com/in/dev-joanamds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-joanamds/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joanamds.github.io/#/)
 
