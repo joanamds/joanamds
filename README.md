@@ -49,6 +49,10 @@
             <span><strong>MUI</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/222272699-b10be3f4-c2ee-4fb3-a78b-2115fe2728e8.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Sequelize</strong></span><br>
+            <img height="32px" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -74,6 +78,10 @@
             <span><strong>Tailwind</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/222272710-d163957e-5ec1-4d91-b0b0-501287eb56a4.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>JWT</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/230504372-baa2f18b-46e1-47d2-9ff7-5fde104da593.png">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -95,9 +103,13 @@
             <span><strong>Node.js</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/222271452-10564e57-06b4-42b8-9d8a-7b71a2a4aef9.svg">
             </td>
-          <td width="80px" align="center">
+            <td width="80px" align="center">
             <span><strong>TypeScript</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/226727689-f5bf535c-7f9f-4adf-8d61-b701f00775ff.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Mocha</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/106452876/230504717-a817b49b-e044-4fa5-905c-d675c808d53e.svg">
             </td>
         </tr>
   </tbody>
