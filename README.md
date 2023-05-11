@@ -53,6 +53,10 @@
             <span><strong>Sequelize</strong></span><br>
             <img height="32px" src="https://camo.githubusercontent.com/a2ef2bb116ae565bb254cbb11194dae357eb7582a8babeab337bd3932687d63d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f73657175656c697a652f73657175656c697a652d6f726967696e616c2e737667">
             </td>
+<!--           <td width="80px" align="center">
+            <span><strong>MongoDB</strong></span><br>
+            <img height="32px" src="https://github.com/joanamds/joanamds/assets/106452876/99a8a0f3-61d0-4903-836e-c10fe7522953">
+            </td> -->
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
