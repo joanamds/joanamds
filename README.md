@@ -119,6 +119,10 @@
             <span><strong>Mocha</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/106452876/230504717-a817b49b-e044-4fa5-905c-d675c808d53e.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
         </tr>
   </tbody>
   </table>
