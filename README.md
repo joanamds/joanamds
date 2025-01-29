@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/106452876/224425476-d9f8fbf4-3ee0-47c5-aad7-d40ef8b13d6a.gif" alt="cat on computer" width="100"/>  ```<h1> Hello world! <;h1> ``` 
+<img src="https://user-images.githubusercontent.com/106452876/224425476-d9f8fbf4-3ee0-47c5-aad7-d40ef8b13d6a.gif" alt="cat on computer" width="100"/>  ```<h1> Hello world! </h1> ``` 
 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/106452876/224425476-d9f8fbf4-3ee0-47c5-aad7-d40ef8b13d6a.gif" alt="cat on computer" width="200"/>
