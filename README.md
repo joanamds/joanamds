@@ -5,9 +5,9 @@
 </div> -->
 
   ---
-  :woman_teacher: :arrow_right: :woman_technologist: Estou mudando de carreira. Da área da educação para a área da tecnologia.
+  🎓 Sou pedagoga formada pela Universidade do Estado de Santa Catarina (UDESC) e busco novos desafios como Desenvolvedora Web. :woman_technologist:
   
-  📖 Comecei meus estudos para me tornar uma Desenvolvedora Full Stack na [Trybe](https://www.betrybe.com/) em julho de 2022. 
+  📖 Comecei meus estudos de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/) em julho de 2022 e concluí em setembro de 2023. 
   
   🎵 Eu adoro música e estou constantemente ouvindo, principalmente música pop.
   
